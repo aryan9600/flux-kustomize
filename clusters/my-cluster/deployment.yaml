@@ -4,7 +4,7 @@ metadata:
   name: deploy-kustomization
   namespace: flux-system
 spec:
-  interval: 10m0s
+  interval: 9m0s
   path: ./apps/deploy
   prune: true
   sourceRef:
