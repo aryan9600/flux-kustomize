@@ -1,0 +1,3 @@
+[submodule "flux-image-updates"]
+	path = flux-image-updates
+	url = https://github.com/aryan9600/flux-image-updates
